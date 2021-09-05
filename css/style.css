@@ -4,9 +4,13 @@ body {
   background-color: black;
 }
 
-a, a:hover, a:visited, a:focus, a:active {
+a, a:visited, a:focus, a:active {
   text-decoration: none;
   color: white;
+}
+
+a:hover{
+  color: gray;
 }
 
 pre{
